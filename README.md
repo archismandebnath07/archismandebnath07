@@ -9,7 +9,7 @@
 ---
 
 ### Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/archisman-debnath-a8bb54369/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/archisman-debnath-a8bb54369/)
 
 ---
 
